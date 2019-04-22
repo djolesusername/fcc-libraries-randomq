@@ -6,6 +6,8 @@ a
 i {
   cursor: pointer;
 }
-#quote-box {
-  margin: 0 auto;
+
+button {
+    color: white;
+    background-color: rgb(4, 165, 4);
 }
